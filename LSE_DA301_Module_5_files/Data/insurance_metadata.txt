@@ -1,0 +1,12 @@
+Insurance	R Documentation
+Insurance Choice Data
+Description
+Insurance data on travellers.
+
+age: age of the primary beneficiary or insurance holder
+sex: insurance holder sex, classified as either female or male in this instance
+BMI: body mass index, an objective index of body weight (kg/m ^ 2) using the ratio of height to weight; ideally this value falls between 18.5 and 24.9
+children: the number of dependants or the number of children covered by the policy (including the primary insurance holder)
+smoker: whether the primary holder is a smoker
+region: primary holder’s residential area in the US
+charges: individual medical costs billed by I4U (in US$).
