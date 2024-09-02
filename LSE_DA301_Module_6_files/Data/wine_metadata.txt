@@ -1,0 +1,14 @@
+LSE DA301: Juglio Wines
+
+########################################################################
+
+Column         Description
+Year           The year of production.
+Price          The cost of the wine.
+WinterRain     The average winter rainfall for the year.
+AGST           Average growing season temperature.
+HarvestRain    The average rainfall during harvesting season.
+Age            The age of the wine.
+FrancePop      The population of France for the year.
+
+###########################################################################
