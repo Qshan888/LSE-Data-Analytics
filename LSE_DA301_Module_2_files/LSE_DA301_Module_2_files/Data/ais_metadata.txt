@@ -1,0 +1,22 @@
+The Australian Institute of Sport has released data about athletes – listing the characteristics of their blood, 
+type of sport performed, body size, and other measurements.(Telford & Cunningham 1991).
+Telford RD, Cunningham RB. Sex, sport and body-size dependency of hematology in highly trained athletes. 
+Med Sci Sports Exerc. 1991 Jul;23(7):788–94. Available from: https://pubmed.ncbi.nlm.nih.gov/1921671/ 
+
+
+The data includes 202 observations across 13 variables. 
+
+The variables are:
+rcc    red blood cell count, in
+wcc    white blood cell count, in per liter
+hc     hematocrit, percent
+hg     hemoglobin concentration, in g per deciliter
+ferr   plasma ferritins, ng
+bmi    body mass index, kg
+ssf    sum of skin folds
+pcB    fat percent Body fat
+lbm    lean body mass, kg
+ht     height, cm
+wt     weight, kg
+sex    a factor with levels f, m.
+sport  a factor with levels B_Ball, Field, Gym, Netball, Row, Swim, T_400m, T_Sprnt, Tennis, W_Polo.

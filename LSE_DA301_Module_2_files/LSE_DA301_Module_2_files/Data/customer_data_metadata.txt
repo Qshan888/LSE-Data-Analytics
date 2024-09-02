@@ -1,0 +1,16 @@
+Meta data
+Input variables: Customer data:
+Age (numeric)
+Edu (categorical: 'basic.4y','basic.6y','basic.9y','high.school','illiterate','professional.course','university.degree','unknown')
+Comm: communication type (categorical: 'cellular','telephone')
+Duration: last contact duration, in seconds (numeric).
+Campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
+PosDays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
+Last_out: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
+Var_rate: employment variation rate - quarterly indicator (numeric)
+Price_idx: consumer price index - monthly indicator (numeric)
+Conf_idx: consumer confidence index - monthly indicator (numeric)
+Month_rate: euribor 3 month rate - daily indicator (numeric)
+Quarterly_emp: number of employees - quarterly indicator (numeric)
+
+Target: numeric

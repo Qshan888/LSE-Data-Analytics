@@ -1,0 +1,19 @@
+Meta data
+
+sex = male, female, infant
+
+length = longest shell length in mm
+
+diameter = diameter perpendicular to length in mm
+
+height = height perpendicular to length and diameter in mm
+
+total_weight = weight of oyster in grams
+
+raw_weight = weight of meat in grams
+
+intestines_weight =  weight in grams
+
+shell_weight = after drying in grams
+
+rings = age (+1.5 gives the age in years)

@@ -1,0 +1,34 @@
+Attribute Information:
+
+ID number
+Diagnosis (M = malignant, B = benign)
+ 
+
+Features computed for each cell nucleus:
+
+a) Radius (the mean of distances from center to points on the perimeter)
+b) Texture (standard deviation of gray-scale values)
+c) Perimeter
+d) Area
+e) Smoothness (local variation in radius lengths)
+f) Compactness 
+g) Concavity (severity of concave portions of the contour)
+h) Concave points (number of concave portions of the contour)
+i) Symmetry
+j) Fractal dimension ("coastline approximation" - 1) 
+
+ 
+
+As per the data set, they have computed the mean, standard error, and 'worst' or largest (mean of the three largest values) of these features for each image, resulting in 30 features. 
+
+For instance, as per UCI, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius. All feature values are recoded with four significant digits.
+
+Missing attribute values: none Class distribution: 357 benign, 212 malignant
+
+Missing attribute values: none Class distribution: 357 benign, 212 malignant
+
+
+
+Features are computed from a digitised image of a fine needle aspirate (FNA) of a breast mass. They describe the characteristics of the cell nuclei present in the image. 
+The 3-dimensional space is described by Bennett and Mangasarian (1992)
+in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
