@@ -1,0 +1,14 @@
+LSE_DA301: Fitting a data set using the OLS method
+
+####################################################################################
+
+Column name          Description
+Email                User’s email address (e.g. hduke@hotmail.com).
+Address              User’s physical address (e.g. 4547 Archer Common\nDiazchester,
+                        CA 06566-8576).
+Avatar               Colour of the user’s avatar (e.g. Dark Green). 
+Avg. Season Length   The average length of a session in seconds (e.g. 31.926272).    
+Time on App          Amount of time spent on the app in seconds (e.g. 11.109461). 
+Time on Website      Amount of time spent on the website in seconds (e.g. 37.268959). 
+
+##################################################################################### 

@@ -1,0 +1,16 @@
+LSE_DA301: A/B testing using Python
+
+####################################################################################
+
+Column name                    Description
+user_id (integer)              The identification number of the user (e.g. 851104).
+timestamp (Python object)      When the user was in the session (e.g. 2017-01-21 
+                                  22:11:48.556739).
+group (Python object)          Which sample group the user was part of (e.g. control 
+                                  or treatment). 
+landing_page (Python object)   Which version of the home page the user saw (e.g. 
+                                  old_page or new_page) .    
+converted (integer)            Whether the user performed a desired action or not 
+                                  (e.g. 0 or 1) . 
+
+##################################################################################### 

@@ -1,0 +1,15 @@
+LSE_DA301: Conduct A/B testing using Python
+
+################################################################################
+
+Column name                  Description
+RecordID (integer)           The number assigned to the record (e.g. 3). 
+IP Address (Python object)   The user’s IP address (e.g. 247.8.211.8).
+LoyaltyPage (integer)        Indicates whether the user clicked through to the 
+                                loyalty programme page, represented as a Boolean
+                                variable (either 1 or 0)
+ServerID (integer)           The web server that accessed the website (e.g. 1).  
+VisitPageFlag (integer)      Indicates whether the user visited other pages on 
+                                the website (e.g. 0 or 1) 
+
+################################################################################ 

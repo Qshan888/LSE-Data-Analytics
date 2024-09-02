@@ -1,0 +1,21 @@
+LSE_DA301: Finding the best fit line
+
+################################################################################
+
+Column name             Description
+Sale (float)           	Per capita sale (e.g. 0.63). 
+por_OS (float)          Proportion of other types of sellers (e.g. 18.0).
+por_NON (float)         Proportion of non-retail overall (e.g. 2.31).
+Recc (integer)          Recommended seller (e.g. 0).  
+Avg_no_it (float)       Average number of items (e.g. 6.575).
+Age (float)             Proportion of units sold by seller (e.g. 65.2).
+Dis (float)             Weighted distances to five sellers (e.g. 4.0900).
+Diff_reg (integer)      Index of accessibility to different regions (e.g. 1, 2, 3).
+TAX (integer)           Tax per $10,000 (e.g. 296).
+Bk (float)              1,000(Bk - 0.63)^2 where Bk is the proportion of retail 
+                           (e.g. 396.90).
+Lowstat (float)         % lower status of the small sellers (e.g. 4.98).
+Median_s (float)        Median value of seller business in $1,000 increments 
+                           (e.g. 24.0).
+
+################################################################################ 
