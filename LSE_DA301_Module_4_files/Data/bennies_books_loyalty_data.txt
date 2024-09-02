@@ -1,0 +1,18 @@
+LSE DA301: Bennie's Books Loyalty Programme data
+
+########################################################################
+
+Name      Last_name    Gender   Age   Email                  Purchases 
+---------------------------------------------------------------------- 
+Donna     Watusi       F        38    donnaw@gotmail.co.uk   24
+Anthea    Smits        F        29    as@workmail.co.nz      16
+Yusuf     Zayeed       M        44    yusufzz@glammail.com   28
+Bongile   Maleson      F        24    bongi1@workmail.co.uk  33
+Abe       Dawidowitz   M        66    papabe@oldmail.com     21
+Quentin   Ng           N        34    qng7@mailio.com        30
+Tracy     Jacks        F        55    tracy@blurredv.co.uk   28
+Bilal     Ghani        M        40    bghani2@mailio.com     21
+Victoria  LeGrande     F        38    beachh@glammail.com    22
+Indira    De Silva     F        29    indigirl@workmail.com  32
+
+###########################################################################
